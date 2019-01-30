@@ -1,6 +1,6 @@
 def pro_63():
-    s = input('Enter :')
-    n = len(s)
+    sm = input('Enter :')
+    nm = len(sm)
     cur_len = 1
     max_len = 1
     prev_ind = 0
